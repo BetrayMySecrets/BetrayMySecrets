@@ -2,6 +2,7 @@
 <img src="https://file.garden/amtzNHpgrDgljedl/meowek2.png" align="left">
 <br>  
 <div align="center">
+  <p> ${{\color{#583b69}·⠀ ·\ ╭\ ︵\ ‿\ ୨}}$ ${{\color{#996a9c}꒰ঌ}}$ ${{\color{#c9c0c9}·✦·}}$ ${{\color{#996a9c}໒꒱}}$ ${{\color{#583b69}୧\ ‿\ ︵\ ╮\ ·⠀ ·}}$ </p>
 <img src="https://file.garden/amtzNHpgrDgljedl/blehh.png"> <img src="https://file.garden/amtzNHpgrDgljedl/kwiort.png"> <img src="https://file.garden/amtzNHpgrDgljedl/sajori1.png">
   <h3>${{\color{#996a9c}⚞}}$ ${{\color{#c9c0c9}Blender}}$ ${{\color{#3a2e51}/}}$ ${{\color{#583b69}Webo}}$ ${{\color{#996a9c}⚟Ⳋ}}$</h3>
   
@@ -14,7 +15,7 @@
 <p align="center">
     <img src="https://file.garden/amtzNHpgrDgljedl/agender.png" width="30" height="20">⠀⠀<img src="https://file.garden/amtzNHpgrDgljedl/demiromantic.png" width="30" height="20">⠀⠀<img src="https://file.garden/amtzNHpgrDgljedl/demisexual.png" width="30" height="20">
 <br>
-  <p></p>
+  ${{\color{#583b69}under}}$ ${{\color{#c9c0c9}15}}$ ${{\color{#3a2e51},}}$ ${{\color{#3a2e51}over}}$ ${{\color{#996a9c}25}}$ ${{\color{#583b69}dni}}$
   <details closed>
   <summary>${{\color{#583b69}𑄝੭}}$ ${{\color{#c9c0c9}BYI}}$</summary>
     ${{\color{#996a9c}𑣲\ i\ struggle\ with\ anxiety}}$
@@ -26,6 +27,6 @@
   </details>
 <br>
   
-  [𑣲strawpage](https://betraymysecrets.straw.page/)⠀⠀,⠀⠀[𑣲patreon](https://www.patreon.com/c/2i37/about)
+  [𑣲 strawpage](https://betraymysecrets.straw.page/)⠀⠀,⠀⠀[𑣲 patreon](https://www.patreon.com/c/2i37/about)
 
-<p> ${{\color{#583b69}·⠀ ·\ ╭\ ︵\ ‿\ ୨\ ꒰ঌ·✦·໒꒱\ ୧\ ‿\ ︵\ ╮\ ·⠀ ·}}$ </p>
+<p> ${{\color{#583b69}·⠀ ·\ ╭\ ︵\ ‿\ ୨}}$ ${{\color{#996a9c}꒰ঌ}}$ ${{\color{#c9c0c9}·✦·}}$ ${{\color{#996a9c}໒꒱}}$ ${{\color{#583b69}୧\ ‿\ ︵\ ╮\ ·⠀ ·}}$ </p>
