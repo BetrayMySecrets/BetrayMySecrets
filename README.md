@@ -1,3 +1,4 @@
+<br>
 <img src="https://file.garden/amtzNHpgrDgljedl/meowek.png" align="left">
 <br>  
 <div align="center">
@@ -22,5 +23,4 @@
   
   [𑣲strawpage](https://betraymysecrets.straw.page/)⠀⠀,⠀⠀[𑣲patreon](https://www.patreon.com/c/2i37/about)
 
-<br>
-
+<p> ·⠀ · ╭ ︵ ‿ ୨ ꒰ঌ·✦·໒꒱ ୧ ‿ ︵ ╮ ·⠀ · </p>
