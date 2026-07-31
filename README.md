@@ -1,5 +1,5 @@
 <br>
-<img src="https://file.garden/amtzNHpgrDgljedl/meowek.png" align="left">
+<img src="https://file.garden/amtzNHpgrDgljedl/meowek2.png" align="left">
 <br>  
 <div align="center">
 <img src="https://file.garden/amtzNHpgrDgljedl/blehh.png"> <img src="https://file.garden/amtzNHpgrDgljedl/kwiort.png"> <img src="https://file.garden/amtzNHpgrDgljedl/sajori1.png">
@@ -14,10 +14,14 @@
 <p align="center">
     <img src="https://file.garden/amtzNHpgrDgljedl/agender.png" width="30" height="20">⠀⠀<img src="https://file.garden/amtzNHpgrDgljedl/demiromantic.png" width="30" height="20">⠀⠀<img src="https://file.garden/amtzNHpgrDgljedl/demisexual.png" width="30" height="20">
 <br>
+  <p></p>
   <details closed>
   <summary>${{\color{#583b69}𑄝੭}}$ ${{\color{#c9c0c9}BYI}}$</summary>
-    ${{\color{#996a9c}i\ struggle\ with\ anxiety}}$
-    <br>${{\color{#996a9c}i\ would\ appreciate\ using\ tone\ indicators}}$
+    ${{\color{#996a9c}𑣲\ i\ struggle\ with\ anxiety}}$
+    <br>${{\color{#996a9c}𑣲\ i\ would\ appreciate\ using\ tone\ indicators}}$
+    <br>${{\color{#996a9c}𑣲\ very\ shy.\ i\ probably\ won't\ interact\ first,}}$
+    ${{\color{#996a9c}but\ i'm\ open\ for\ conversation\ always}}$
+    ${{\color{#996a9c}𑣲\ i\ often\ use\ emojis\ to\ resemble\ my\ emotions/tone}}$
   </details>
 <br>
   
