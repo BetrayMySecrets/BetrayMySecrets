@@ -20,8 +20,9 @@
     ${{\color{#996a9c}𑣲\ i\ struggle\ with\ anxiety}}$
     <br>${{\color{#996a9c}𑣲\ i\ would\ appreciate\ using\ tone\ indicators}}$
     <br>${{\color{#996a9c}𑣲\ very\ shy.\ i\ probably\ won't\ interact\ first,}}$
-    ${{\color{#996a9c}but\ i'm\ open\ for\ conversation\ always}}$
-    ${{\color{#996a9c}𑣲\ i\ often\ use\ emojis\ to\ resemble\ my\ emotions/tone}}$
+    <br>${{\color{#996a9c}but\ i'm\ open\ for\ conversation\ always}}$
+    <br>${{\color{#996a9c}𑣲\ i\ often\ use\ emojis\ to\ resemble}}$
+    <br>${{\color{#996a9c}my\ emotions/tone}}$
   </details>
 <br>
   
