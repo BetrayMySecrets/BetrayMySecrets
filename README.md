@@ -14,7 +14,7 @@
 <p align="center">
     <img src="https://file.garden/amtzNHpgrDgljedl/agender.png" width="30" height="20">⠀⠀<img src="https://file.garden/amtzNHpgrDgljedl/demiromantic.png" width="30" height="20">⠀⠀<img src="https://file.garden/amtzNHpgrDgljedl/demisexual.png" width="30" height="20">
 <br>
-  ${{\color{#583b69}under}}$ ${{\color{#c9c0c9}15}}$ ${{\color{#3a2e51},}}$ ${{\color{#3a2e51}over}}$ ${{\color{#996a9c}25}}$ ${{\color{#583b69}dni}}$
+  ${{\color{#583b69}under}}$ ${{\color{#c9c0c9}15}}$ ${{\color{#3a2e51},}}$ ${{\color{#3a2e51}over}}$ ${{\color{#996a9c}23}}$ ${{\color{#583b69}dni}}$
   <details closed>
   <summary>${{\color{#583b69}𑄝੭}}$ ${{\color{#c9c0c9}BYI}}$</summary>
     ${{\color{#c9c0c9}𑣲}}$ ${{\color{#996a9c}i\ struggle\ with\ anxiety}}$
