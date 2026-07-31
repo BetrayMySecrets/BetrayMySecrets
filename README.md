@@ -2,7 +2,7 @@
 <img src="https://file.garden/amtzNHpgrDgljedl/meowek.png" align="left">
 <br>  
 <div align="center">
-<img src="https://file.garden/amtzNHpgrDgljedl/sajori2.png"> <img src="https://file.garden/amtzNHpgrDgljedl/Untitled126_20260730234611.png"> <img src="https://file.garden/amtzNHpgrDgljedl/sajori.png">
+<img src="https://file.garden/amtzNHpgrDgljedl/blehh.png"> <img src="https://file.garden/amtzNHpgrDgljedl/kwiort.png"> <img src="https://file.garden/amtzNHpgrDgljedl/sajori1.png">
   <h3>${{\color{#996a9c}⚞}}$ ${{\color{#c9c0c9}Blender}}$ ${{\color{#3a2e51}/}}$ ${{\color{#583b69}Webo}}$ ${{\color{#996a9c}⚟Ⳋ}}$</h3>
   
 <p align="center">
@@ -23,4 +23,4 @@
   
   [𑣲strawpage](https://betraymysecrets.straw.page/)⠀⠀,⠀⠀[𑣲patreon](https://www.patreon.com/c/2i37/about)
 
-<p> ·⠀ · ╭ ︵ ‿ ୨ ꒰ঌ·✦·໒꒱ ୧ ‿ ︵ ╮ ·⠀ · </p>
+<p> ${{\color{#583b69}·⠀ ·\ ╭\ ︵\ ‿\ ୨\ ꒰ঌ·✦·໒꒱\ ୧\ ‿\ ︵\ ╮\ ·⠀ ·}}$ </p>
