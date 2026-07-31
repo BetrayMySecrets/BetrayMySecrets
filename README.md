@@ -26,6 +26,6 @@
   </details>
   <p>${{\color{#996a9c}more\ info\ /\ dni\ on\ patreon}}$</p>
 
-  [𑣲 strawpage](https://betraymysecrets.straw.page/)⠀⠀,⠀⠀[𑣲 patreon](https://www.patreon.com/c/2i37/about)
+  [𑣲 strawpage](https://betraymysecrets.straw.page/)⠀⠀ ${{\color{#3a2e51}/}}$ ⠀⠀[𑣲 patreon](https://www.patreon.com/c/2i37/about)
 
 <p> ${{\color{#583b69}·⠀ ·\ ╭\ ︵\ ‿\ ୨}}$ ${{\color{#996a9c}꒰ঌ}}$ ${{\color{#c9c0c9}·✦·}}$ ${{\color{#996a9c}໒꒱}}$ ${{\color{#583b69}୧\ ‿\ ︵\ ╮\ ·⠀ ·}}$ </p>
