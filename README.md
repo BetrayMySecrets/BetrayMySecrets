@@ -24,8 +24,6 @@
     <br>${{\color{#c9c0c9}𑣲}}$ ${{\color{#996a9c}i\ often\ use\ emojis\ to\ resemble}}$
     <br>${{\color{#996a9c}my\ emotions/tone}}$
   </details>
-  <br>
-  
   <p>${{\color{#996a9c}more\ info\ /\ dni\ on\ patreon}}$</p>
 
   [𑣲 strawpage](https://betraymysecrets.straw.page/)⠀⠀,⠀⠀[𑣲 patreon](https://www.patreon.com/c/2i37/about)
